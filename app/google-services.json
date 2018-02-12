@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "481676084207",
+    "firebase_url": "https://safari-care.firebaseio.com",
+    "project_id": "safari-care",
+    "storage_bucket": "safari-care.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:481676084207:android:5b027f6182c684eb",
+        "android_client_info": {
+          "package_name": "com.example.joseph.safaricare"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "481676084207-qi22ncs7ln12u9hgskjr10gu2g35icn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHHyA8EfD5j8RrQ3FQs9j8DWEKjoskBeE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
